@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Usage
+for run firt start api : ```json-server --watch api/db.json --port 3004```
+for run app : ```yarn start```
+
+
 ## Available Scripts
 
 In the project directory, you can run:
