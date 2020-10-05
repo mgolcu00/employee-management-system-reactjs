@@ -1,0 +1,22 @@
+{
+    "users":[
+        {
+            "id": "uniqe-1",
+            "name": "Mert Gölcü",
+            "department": "IT",
+            "salary": "4000"
+          },
+          {
+            "id": "uniqe-2",
+            "name": "Kemalettin  Taslak",
+            "department": "Marketing",
+            "salary": "8000"
+          },
+          {
+            "id": "uniqe-3",
+            "name": "Murat Gölcü",
+            "department": "Managment",
+            "salary": "35000"
+          }
+    ]
+}
